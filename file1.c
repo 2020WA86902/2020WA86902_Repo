@@ -1,5 +1,5 @@
-int sum (a, b)
+int sum_func (a, b)
 {
-	c = a + b:
+	return c = a + b:
 
 }
