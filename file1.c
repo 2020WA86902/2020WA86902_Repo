@@ -1,7 +1,6 @@
 int sum_func (a, b)
 {
-	return c = a + b:
-
+	 c = a + b;
+	 return c;
 }
 
-return c;
